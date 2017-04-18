@@ -19,6 +19,10 @@
 # define PAL_CREDIT           "(Unknown)"
 # define PAL_PORTYEAR         "2015"
 
+#define PAL_HAS_NATIVEMIDI  1
+
+#define PAL_HAS_CONFIG_PAGE 0
+
 LPCSTR
 UTIL_BasePath(
    VOID
